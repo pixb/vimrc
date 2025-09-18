@@ -3,6 +3,7 @@ if &compatible
 endif
 inoremap jk <ESC>
 syntax on
+colorscheme murphy
 filetype on
 set nobackup
 set novisualbell
