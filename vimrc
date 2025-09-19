@@ -18,6 +18,7 @@ set hlsearch
 set expandtab
 set autoindent
 set smartindent
+set cursorline
 set smarttab
 set shiftwidth=2
 set tabstop=2
